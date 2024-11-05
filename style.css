@@ -131,13 +131,12 @@ body {
     padding: 20px 0;
 }
 
-.questions h2{
-    font-size: 18px;
-    color: blue;
+h2 {
+    text-align: center;
 }
 
 .btn {
-    background-color: #fff;
+    background-color: yellowgreen;
     color: #222;
     font-weight: 500;
     width: 100%;
@@ -149,8 +148,3 @@ body {
     cursor: pointer;
 }
 
-.btn:hover{
-    background: #222;
-    color: #fff;
-
-}
