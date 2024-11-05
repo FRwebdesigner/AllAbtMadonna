@@ -133,6 +133,7 @@ body {
 
 h2 {
     text-align: center;
+    align-content: center;
 }
 
 .btn {
@@ -146,5 +147,6 @@ h2 {
     text-align: left;
     border-radius: 4 px;
     cursor: pointer;
+    align-content: center;
 }
 
